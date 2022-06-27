@@ -14,8 +14,8 @@ CSS Modules
 
 Melhor forma para criar os componentes
 
-##
-##
+#
+#
 ## Screenshots
 
 ![App Screenshot](https://imgur.com/HQBv8qs.png)
